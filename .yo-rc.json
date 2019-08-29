@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "declrevenu",
+    "packageName": "com.brain.fisc",
+    "packageFolder": "com/brain/fisc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "NDA4Y2M5YTA5OGVjOWFmZWIzMzFkY2E4MWVhZDdkZjY5NjZkOGU2YzFmMzMxM2RkMWMxZDE5MjQwYWI4ZmZjNmRhMGJlZTBlZDQxZTcyNzZiYjA2MDBjYTdiZmRkYTFmODZiMTZiNDlhNDE3MzM2NTIxNzI0YWVmNjI3OGNhYzY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "sandalothier",
+  "repository-name": "declrevenu"
+}
